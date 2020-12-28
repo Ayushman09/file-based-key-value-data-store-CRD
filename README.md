@@ -35,5 +35,5 @@ the code works and how to perform operations in this.
 
 
 ## Credits
-This project is assigned by <a href="freshworks.com"> Freshworks </a> for selection for Software Developer Internship role. </br>
+This project is assigned by <a href="https://www.freshworks.com"> Freshworks </a> for selection for Software Developer Internship role. </br>
 [Ayushman09](https://www.github.com/Ayushman09)
