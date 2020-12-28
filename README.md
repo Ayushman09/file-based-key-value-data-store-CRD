@@ -5,6 +5,10 @@
 This is a file which can be exposed as a library that supports the basic CRUD(Create, Read, Update, Delete) operations.
 Data store is meant to local storage for one single process on single laptop
 
+## Ideal way of usage/test
+### Open or execute the "run_script.py" file for using the "main.py" as intended
+### OR import the "main.py" file to your Python interactive mode/ new .py file and use it as a library. {for eg. main.create("key_name",value,time_to_live)}
+
 <b>The data store will support the following :</b>
 <b>Functional Requiurements:</b> 
 1. It can be initialized using an optional file path. If one is not provided, it will reliably create itself in a reasonable location on the laptop.
@@ -24,7 +28,6 @@ value in response, as a JSON object.
 Go through the task.py file and screenshots in "sample" directory. These are attached here in order to understand clearly how 
 the code works and how to perform operations in this. 
 
-
 # Demo Output
 <img src = 'https://github.com/Ayushman09/file-based-key-value-data-store-CRD/blob/main/Sample/sample1.jpg' width=''/> </br>
 <img src = 'https://github.com/Ayushman09/file-based-key-value-data-store-CRD/blob/main/Sample/sample2.jpg' width=''/> </br>
@@ -32,4 +35,5 @@ the code works and how to perform operations in this.
 
 
 ## Credits
+This project is assigned by <a href="freshworks.com"> Freshworks </a> for selection for Software Developer Internship role. </br>
 [Ayushman09](https://www.github.com/Ayushman09)
