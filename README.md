@@ -31,9 +31,5 @@ the code works and how to perform operations in this.
 <img src = 'https://github.com/Ayushman09/file-based-key-value-data-store-CRD/blob/main/Sample/sample3.jpg' width=''/> </br>
 
 
-## Contributing
-Pull requests are welcome.<br> For major changes, please open an issue first to discuss what you would like to change.<br>
-Please make sure to give proper credits in Readme.
-
 ## Credits
 [Ayushman09](https://www.github.com/Ayushman09)
